@@ -1,0 +1,17 @@
+model,method,per1k_joules,per1k_seconds,mode
+resnet50,gradcam_mid,156.57432432432432,11.42037075919074,zeus_apple_silicon
+resnet50,ig,2059.777027027027,93.32164880391714,zeus_apple_silicon
+resnet50,occlusion,6875.722972972973,296.6110754657436,zeus_apple_silicon
+resnet18,gradcam_mid,57.82432432432432,3.9838778006063924,zeus_apple_silicon
+resnet18,ig,629.1216216216216,28.345910278526514,zeus_apple_silicon
+resnet18,occlusion,1938.4324324324327,82.36485880774421,zeus_apple_silicon
+efficientnet_b0,gradcam_mid,105.52702702702703,10.526797255954227,zeus_apple_silicon
+efficientnet_b0,ig,1549.6216216216217,83.12743257831883,zeus_apple_silicon
+efficientnet_b0,occlusion,4644.844594594594,246.13527671710864,zeus_apple_silicon
+mobilenetv3_small_100,gradcam_mid,40.78378378378378,6.09227128930994,zeus_apple_silicon
+mobilenetv3_small_100,ig,315.3513513513514,18.666228732547246,zeus_apple_silicon
+mobilenetv3_small_100,occlusion,1036.0000000000002,85.20404712573902,zeus_apple_silicon
+vit_tiny_patch16_224,ig,26810.513513513513,1020.7266034306707,zeus_apple_silicon
+vit_tiny_patch16_224,occlusion,2222.635135135135,94.59274362873387,zeus_apple_silicon
+small_cnn,ig,384.47297297297297,18.499087642978978,zeus_apple_silicon
+small_cnn,occlusion,1286.9932432432433,58.726707020321406,zeus_apple_silicon
