@@ -1,0 +1,1 @@
+{"model": "resnet50", "method": "gradcam", "xai_per1k_seconds": 7.904001184411951, "xai_per1k_joules": 142.54054054054055, "xai_per1k_dynamic_joules": 138.5601651205378, "xai_energy_mode": "zeus_apple_silicon"}

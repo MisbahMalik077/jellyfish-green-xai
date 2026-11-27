@@ -1,0 +1,1 @@
+{"model": "mobilenetv3_small_100", "method": "gradcam", "xai_per1k_seconds": 1.868061117223791, "xai_per1k_joules": 24.047297297297295, "xai_per1k_dynamic_joules": 23.1065605260624, "xai_energy_mode": "zeus_apple_silicon"}

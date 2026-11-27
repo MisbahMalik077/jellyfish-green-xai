@@ -1,0 +1,1 @@
+{"model": "small_cnn", "method": "scorecam", "xai_per1k_seconds": 62.139541716189, "xai_per1k_joules": 941.5608108108108, "xai_per1k_dynamic_joules": 910.26796321545, "xai_energy_mode": "zeus_apple_silicon"}

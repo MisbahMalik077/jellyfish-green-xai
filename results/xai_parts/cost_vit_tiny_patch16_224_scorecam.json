@@ -1,0 +1,1 @@
+{"model": "vit_tiny_patch16_224", "method": "scorecam", "xai_per1k_seconds": 132.4094598357742, "xai_per1k_joules": 1408.9864864864862, "xai_per1k_dynamic_joules": 1342.3064155945976, "xai_energy_mode": "zeus_apple_silicon"}

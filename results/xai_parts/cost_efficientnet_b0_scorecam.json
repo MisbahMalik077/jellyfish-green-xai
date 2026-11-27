@@ -1,0 +1,1 @@
+{"model": "efficientnet_b0", "method": "scorecam", "xai_per1k_seconds": 1514.1023236352044, "xai_per1k_joules": 27449.587837837837, "xai_per1k_dynamic_joules": 26835.243467246844, "xai_energy_mode": "zeus_apple_silicon"}

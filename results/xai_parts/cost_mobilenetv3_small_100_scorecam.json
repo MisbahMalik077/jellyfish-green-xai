@@ -1,0 +1,1 @@
+{"model": "mobilenetv3_small_100", "method": "scorecam", "xai_per1k_seconds": 311.606046315786, "xai_per1k_joules": 3314.5135135135133, "xai_per1k_dynamic_joules": 3157.5918457984703, "xai_energy_mode": "zeus_apple_silicon"}

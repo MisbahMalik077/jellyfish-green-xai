@@ -1,0 +1,1 @@
+{"model": "efficientnet_b0", "method": "gradcam++", "xai_per1k_seconds": 6.584562159873344, "xai_per1k_joules": 95.00675675675676, "xai_per1k_dynamic_joules": 92.33508217269524, "xai_energy_mode": "zeus_apple_silicon"}

@@ -1,0 +1,1 @@
+{"model": "resnet50", "method": "scorecam", "xai_per1k_seconds": 3263.0290727357606, "xai_per1k_joules": 66370.51351351352, "xai_per1k_dynamic_joules": 64727.284924240696, "xai_energy_mode": "zeus_apple_silicon"}
